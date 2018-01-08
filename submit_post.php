@@ -2,7 +2,7 @@
 // Connexion à la base de données
 try
 {
-	$bdd = new PDO('mysql:host=127.0.0.1;dbname=mariage;charset=utf8', 'root', 'lb171177!', array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
+	$bdd = new PDO('mysql:host=127.0.0.1;dbname=mariage;charset=utf8', 'root', '', array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
 }
 catch(Exception $e)
 {
