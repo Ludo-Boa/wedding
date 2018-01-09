@@ -65,24 +65,26 @@
         </div>
         <div class="row">
           <div class="col-xs-offset-1 col-xs-10">
-            <img src="images/heart.jpg" class="img-responsive" alt="photo de coeur">
+            <img src="images/shoes1.jpg" class="img-responsive" alt="">
           </div>
         </div>
         <div class="row">
           <div class="col-xs-offset-1 col-xs-10">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-              officia deserunt mollit anim id est laborum.</p>
+            <p>Au début, cette histoire ne cassait pas trois pattes à un canard, d’aucuns n’auraient pas même misé trois francs six sous. Mais lui, beau comme un camion, lui fit les yeux doux et elle, naïve fleur bleue, mordit à l’hameçon de ce cœur d’artichaut. Il lui promettait rien de moins que de lui décrocher la lune !
+              Finalement, l’un et l’autre trouvèrent chaussure à leur pied. Ni une ni deux, il lui proposa de lui mettre un polichinelle dans le tiroir, ce qu’elle accepta par deux fois, en se disant même, jamais deux sans trois !
+              Au bout de cinq ans, ils nageaient toujours dans le bonheur et ils décidèrent de se passer la bague au doigt.<br>
+              Est-ce que le jeu en vaudra la chandelle ?<br>
+              Est-ce qu’ils s’en mordront les doigts ?<br>
+              Est-ce qu’ils y laisseront des plumes ?<br>
+              Nul ne sait encore, on ne peut pas vendre la peau de l’ours avant de l’avoir tué. <br>
+              Mais si vous voulez connaître le fin mot d l’histoire, vous n’aurez qu’à suivre leurs péripéties. </p>
           </div>
         </div>
       </div>
     </div>
 
     <div class="bg-imgCoquelico">
+      <div class="bg-white"></div>
       <div class="container">
         <div class="content">
           <div class="text-left">
